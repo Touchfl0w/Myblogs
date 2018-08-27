@@ -36,6 +36,9 @@ if __name__ == "__main__":
     ordered_array = selection_sort(array)
     print(ordered_array)
 ```
+
+![](http://image-store1.oss-cn-hangzhou.aliyuncs.com/18-8-27/81443019.jpg)
+
 4、　关于数组与链表
 
 ![](http://image-store1.oss-cn-hangzhou.aliyuncs.com/18-8-27/14967928.jpg)
